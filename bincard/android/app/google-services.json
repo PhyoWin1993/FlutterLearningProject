@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480134142953",
+    "project_id": "flutterboardapp-e01b0",
+    "storage_bucket": "flutterboardapp-e01b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480134142953:android:830eccf836672c2227c978",
+        "android_client_info": {
+          "package_name": "com.bincard.bincard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480134142953-4tifqpuonft08ib99joa82lgn1fn9gst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPw9dIM4ukUHJRaIlA_tqNAEoANW4mwzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480134142953-4tifqpuonft08ib99joa82lgn1fn9gst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
